@@ -83,4 +83,3 @@ The system transitions between the following states:
 
 ---
 
-## Example Output (LCD)
