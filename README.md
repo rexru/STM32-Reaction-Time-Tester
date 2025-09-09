@@ -1,4 +1,4 @@
-# Reaction Time Tester – STM32F429ZI (Lab 02)
+# Reaction Time Tester – STM32F429ZI
 
 ## Overview
 This project implements a **reaction time tester** on the STM32F429ZI Discovery board. The goal is to measure how quickly a user can press a button after an LED lights up, and to display their reaction time on the onboard LCD. The system uses a **finite state machine (FSM)** to manage its behavior, interrupt-driven hardware timers for precise timing, and both onboard and external pushbuttons for interaction.  
